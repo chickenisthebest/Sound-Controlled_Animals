@@ -1,0 +1,24 @@
+.header_div{
+    background-color: rgb(35, 120, 169);
+    text: rgb(182, 182, 222);
+}
+p{
+    font-family: 'Alkatra', cursive;
+    font-weight: 800;
+    letter-spacing: 0in;
+    font-size: medium;
+}
+.main_div {
+    font-family: 'Alkatra', cursive;
+    margin-top: 0fr;
+    width: max-content;
+    font-weight: 800;
+    letter-spacing: 0ch;
+}
+.copy_right_footer {
+    background-color: rgb(237, 197, 255);
+    text-decoration-color: rgb(12, 73, 117);
+    font-size: 10px;
+    line-height: 0fr;
+    text-shadow: 0rem;
+}
