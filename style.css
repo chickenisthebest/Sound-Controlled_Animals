@@ -1,24 +1,37 @@
-.header_div{
-    background-color: rgb(35, 120, 169);
-    text: rgb(182, 182, 222);
+body {
+    font-family: 'Special Elite', cursive;
+    background-color: rgb(48, 138, 183);
 }
-p{
-    font-family: 'Alkatra', cursive;
-    font-weight: 800;
-    letter-spacing: 0in;
-    font-size: medium;
+
+.header_div {
+    background: white;
+    color: blue;
 }
-.main_div {
-    font-family: 'Alkatra', cursive;
-    margin-top: 0fr;
-    width: max-content;
-    font-weight: 800;
-    letter-spacing: 0ch;
+
+.header_div p {
+    font-family: 'Roboto', sans-serif;
+    color: rgb(107, 18, 18);
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
 }
+
+.main_div button {
+    font-family: 'Roboto', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
 .copy_right_footer {
-    background-color: rgb(237, 197, 255);
-    text-decoration-color: rgb(12, 73, 117);
-    font-size: 10px;
-    line-height: 0fr;
-    text-shadow: 0rem;
+    position: fixed;
+    color: rgb(185, 161, 208);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb (151, 149, 149);
 }
